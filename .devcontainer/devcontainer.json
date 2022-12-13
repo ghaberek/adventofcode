@@ -1,0 +1,10 @@
+{
+    "name": "Advent of Code",
+    "build": {
+        "dockerfile": "Dockerfile.euphoria"
+    },
+    "extensions": [
+		"ms-vscode.cpptools",
+		"openeuphoria.vscode-euphoria"
+	]
+}
