@@ -6,7 +6,7 @@ My solutions for [Advent of Code 2022](https://adventofcode.com/2022) written in
 - [x] [Day 2: Rock Paper Scissors](02/)
 - [x] [Day 3: Rucksack Reorganization](03/)
 - [x] [Day 4: Camp Cleanup](04/)
-- [ ] Day 5: Supply Stacks
+- [x] [Day 5: Supply Stacks](05/)
 - [ ] Day 6: Tuning Trouble
 - [ ] Day 7: No Space Left On Device
 - [ ] Day 8: Treetop Tree House
